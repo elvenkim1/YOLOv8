@@ -1,0 +1,13 @@
+names:
+- container
+- corner
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: corner-casting-with-2-corners
+  url: https://universe.roboflow.com/elven-ee6lc/corner-casting-with-2-corners/dataset/6
+  version: 6
+  workspace: elven-ee6lc
+test: ../test/images
+train: corner-casting-with-2-corners-6/train/images
+val: corner-casting-with-2-corners-6/valid/images
